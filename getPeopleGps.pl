@@ -20,7 +20,7 @@
 use strict;
 use warnings;
 
-my $googleKey = "AIzaSyD9wqmeX_YlaRLZYrnNDOkHcXvlXa9cATo";
+my $googleKey = "GET_YOUR_OWN_KEY";
 
 # Set Perl not to buffer the printing output
 local $| = 1;
